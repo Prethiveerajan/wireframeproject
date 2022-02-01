@@ -11,8 +11,16 @@ Write your design steps here
 ### Step 2:
 Write your design steps here
 
-## OUTPUT:
-include your output screenshots 
+## OUTPUT OF HOME PAGE:
+
+
+
+## OUTPUT OF ABOUT US:
+
+
+
+## OUTPUT OF CONTACT US:
+
 
 
 ## Result:
